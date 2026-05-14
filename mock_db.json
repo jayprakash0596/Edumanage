@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "System Admin",
+      "email": "admin@college.com",
+      "password": "$2b$12$7XxIic6ysS.AdWpo/hStYObsNAFv3DczX8jzG8fPon3ASANmvlwJy",
+      "role": "Admin"
+    },
+    {
+      "name": "Demo Staff",
+      "email": "staff@college.com",
+      "password": "$2b$12$7XxIic6ysS.AdWpo/hStYObsNAFv3DczX8jzG8fPon3ASANmvlwJy",
+      "role": "Staff"
+    },
+    {
+      "name": "Demo Student",
+      "email": "student@college.com",
+      "password": "$2b$12$7XxIic6ysS.AdWpo/hStYObsNAFv3DczX8jzG8fPon3ASANmvlwJy",
+      "role": "Student"
+    },
+    {
+      "name": "Neha Dubey",
+      "email": "nehadubey0024@gmail.com",
+      "password": "$2b$12$csRx0xX/Zng.gVYqLzUDO.ZxSO/RJtwEhWs9JOSecOmk1HPPqJTi6",
+      "role": "Student",
+      "_id": "69fb79fd3387d7adde491826"
+    }
+  ],
+  "admissions": [
+    {
+      "firstName": "Neha",
+      "lastName": "Dubey",
+      "email": "nehadubey0024@gmail.com",
+      "phone": "65828524",
+      "course": "B.Tech Computer Science",
+      "dob": "2013-12-25",
+      "address": "Siwan,bihar",
+      "status": "Approved",
+      "createdAt": "2026-05-06 17:25:51.820000+00:00",
+      "_id": "69fb79a03387d7adde491825"
+    }
+  ],
+  "notifications": [],
+  "subjects": [],
+  "schedules": []
+}

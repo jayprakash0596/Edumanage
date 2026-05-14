@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+motor
+pydantic
+razorpay
+groq
+python-dotenv
+passlib[bcrypt]
+pyjwt
+python-multipart
+email-validator
